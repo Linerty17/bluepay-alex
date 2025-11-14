@@ -129,7 +129,7 @@ const BuyBPCPayment = () => {
 
         <div className="mb-4 border-t pt-4">
           <p className="text-gray-500 text-sm">Bank Name</p>
-          <p className="text-2xl font-bold">VFD PSB</p>
+          <p className="text-2xl font-bold">VFD MFB</p>
         </div>
 
         <div className="mb-4 border-t pt-4">
